@@ -1,0 +1,24 @@
+{
+  "name": "npm-snapshot",
+  "version": "1.0.0",
+  "description": "Trasform a version in package like java SNAPSHOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepobiz/npm-snapshot.git"
+  },
+  "keywords": [
+    "npm-version",
+    "package.json",
+    "snapshot"
+  ],
+  "author": "Cavallaro Catello Stefano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stepobiz/npm-snapshot/issues"
+  },
+  "homepage": "https://github.com/stepobiz/npm-snapshot#readme"
+}
